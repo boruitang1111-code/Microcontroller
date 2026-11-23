@@ -1,5 +1,5 @@
 ID,Designator,Footprint,Quantity,Designation,Supplier and ref,Unit price,Pruchase link,
-1,"C1, C2, C3, C9, C11, C12, C13, C14, C15, C16, C17",C14663,0.0055,https://www.lcsc.com/product-detail/C14663.html?s_z=n_q_C14663&globalKeyword=C14663,
+1,"C1, C2, C3, C9, C11, C12, C13, C14, C15, C16, C17",C_0603_1608Metric,11,100nF,C14663,0.0055,https://www.lcsc.com/product-detail/C14663.html?s_z=n_q_C14663&globalKeyword=C14663,
 2,"C4, C5",C_0603_1608Metric,2,15pf,C1644,0.112,https://www.lcsc.com/product-detail/C1644.html?s_z=n_q_C1644&globalKeyword=C1644,
 3,C6,C_0603_1608Metric,1,10µF,C19702,0.0169,https://www.lcsc.com/product-detail/C19702.html?s_z=n_q_C19702&globalKeyword=C19702,
 4,"C7, C8, C10",C_0603_1608Metric,3,1µF,C15849,0.0142,https://www.lcsc.com/product-detail/C15849.html?s_z=n_q_C15849&globalKeyword=C15849,
@@ -15,4 +15,5 @@ ID,Designator,Footprint,Quantity,Designation,Supplier and ref,Unit price,Pruchas
 14,U2,WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm,1,W25Q128JVE,C2456297,4.1214,https://www.lcsc.com/product-detail/C2456297.html?s_z=n_q_W25Q128JVEIQ&spm=wm.fly.bg.0.xh&lcsc_vid=QVhfUgVeRlUIV1JXT1MPVwFTFFIPXlFRQVNXAwAEE1ExVlNfQlVbVlJWQFNbVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRVlWSQwSGg0%3D,
 15,U3,SOT-23-5,1,AP2112K-3.3,C51118,0.1683,https://www.lcsc.com/product-detail/C51118.html?s_z=n_q_C51118&globalKeyword=C51118,
 16,Y1,Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm,1,Crystal_GND24,C276421,0.4560,https://www.lcsc.com/product-detail/C276421.html?s_z=n_q_ABM8G-12.000MHZ&spm=wm.fly.bg.0.xh&lcsc_vid=QVhfUgVeRlUIV1JXT1MPVwFTFFIPXlFRQVNXAwAEE1ExVlNfQlVbVlNVR1RYXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQlBfVlxIHxUDCw%3D%3D,
+
 
